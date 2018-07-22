@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key: 
     secure: wis/raK0+s+2wIi4XwUHltfzD9UjdgdGsuQd+5euLym9sDdQoVlh+XGkh+gRxoa2P5pnT2+hJrtT+KXYrti3GvkgU/gTHp5ULzveWTyfTnXz1YAhqu3Nrjdi19bYP4Y/4lqpADsR9i1hO3QpsfKgBoCWyIFBwMKCOiOCg96rJptYu+wn1p0YZS4mpPYqUBXfQQxqh2DpNxNFF5uZd4XT620S+OF41LWJSvbhvp9lbcMc+xlreQHhH9zmt7eofhLgU+CIBswUI8GDDWzQf/Bbbg2sjSSuTKlgZYDb1R48DNy4Fx/ZzGdiZlZj9jLEf4gsiYkWtrFw9n3GtoorZKmn3UmHQbj8gAvsjE7sDtRWrLKNGK7YA+oRN0CtDPyU8Ls34tf3U5PQLNA3PKc/NvhUeXCJJxkpMgT2eNG9a0QSrKePXFciTvcakgzu1+pRGQ2A64jQcEk4dQFOtft+C6682BP7/Au/AKCIhxmAWnrMSReeBC2F8bwxgFYXk+8F8pBWargHCXeSvNIKVKEBep+bGIxyUIncdUVdbmBZW2q0uTPDq12Q0MuOl39ZGpeXGnRTrGWDQesvkhV/mC0pOFjRb4zI2CubUEVWrJ2HIgplV845cKuakYmyu15DOdxnGgVBtPbYwBOVXsxpT4RCYavfptTFcoEfPiwfAD8wDx+od70=
-  app: https://sheltered-dusk-79229.herokuapp.com/ 
+  app: sheltered-dusk-79229
   on:
     repo: DrewBlake/node-shopping-list-integration-tests
